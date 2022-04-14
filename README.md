@@ -66,7 +66,7 @@ yarn test:cov
 ## Endpoints
 <!-- # The applications starts up on localhost port 3000 -->
 
-<!-- # To get the top 10 most occurring words in the titles of the last 25 stories -->
+To get the top 10 most occurring words in the titles of the last 25 stories 
 http://localhost:3000/titles/stories  
 
 <!-- # To get the top 10 most occurring words in the titles of the post of exactly the last week -->

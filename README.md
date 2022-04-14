@@ -72,12 +72,10 @@ To get the top 10 most occurring words in the titles of the last 25 stories
 http://localhost:3000/titles/stories 
 ```
 
-To get the top 10 most occurring words in the titles of the post of exactly the last week
+To get the top 10 most occurring words in the titles of the post of exactly the last week. This endpoint takes an averarage of 3 to 5 mins as it performs a lot of request
 ```
 http://localhost:3000/titles/post
 ```
-This endpoint takes 3 to 5 mins as it requires a lot of id to make it's request
-
 
 To get the top 10 most occurring words in titles of the last 600 stories of users with at least 10.000 karma
 ```
